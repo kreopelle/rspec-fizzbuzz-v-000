@@ -1,3 +1,3 @@
-def fizbuzz 
+def fizbuzz
 
 end
